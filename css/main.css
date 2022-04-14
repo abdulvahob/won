@@ -107,6 +107,7 @@ img {
 
 /* hero start */
 .hero {
+   background-color: #acaaa9;
    background-image: url("../img/hero-bg.jpg");
    background-repeat: no-repeat;
    background-size: cover;
